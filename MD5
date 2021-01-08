@@ -1,0 +1,10 @@
+608b7e5bd5ef8614821c518bca679134 *DESCRIPTION
+db2b25da73e5ca402ab42f5eb514a128 *LICENSE
+7fcd6b8df1fefcd186c53c92f344f2b9 *NAMESPACE
+19cf0c816cba07478c41fb9bbc78355f *R/quantiles.R
+e4cdd3ef499beb814f4bafb3f7d5d3bf *R/tab.R
+a3c017842f6f2d9f75cc602cbbc39f84 *R/tabcount.R
+39b4b66d4f8b0569dfe1ac81f821ef6a *README.md
+fab31e23d78cb4427a261d7a9b589411 *man/quantiles.Rd
+be9bfc8bedd8d6d8968fe1d66e0f68c0 *man/tab.Rd
+786a6ae575c6d1d9b733fa194795c3e2 *man/tabcount.Rd
